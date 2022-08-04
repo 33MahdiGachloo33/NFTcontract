@@ -1,2 +1,2 @@
 # NFTcontract
-This customize NFT contract
+This is customize NFT contract
